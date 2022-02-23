@@ -80,9 +80,3 @@ of pset3.
 Additional files used in **Short p7-1 (Measurement and Precision)**:
 
 `fbin.py`: Determine the binary encoding for a decimal fraction.
-
-
-The following files are used in **Problem #8 (???)**:
-
-Google Colab notebook containing an active learning project involving data
-science ideas and techniques.  File to be created.
