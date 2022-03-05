@@ -23,4 +23,5 @@ with Image.open(imfile) as im:
             r, g, b = im.getpixel((x,y))
             im.putpixel((x,y), (r, g//50, b//50))
 
-    im.show()
+    # im.show()
+    im.save('images/out.png')
